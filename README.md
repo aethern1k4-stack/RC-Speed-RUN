@@ -17,3 +17,4 @@ https://www.aliexpress.com/item/1005006341866267.html?src=google&src=google&albc
 <img width="902" height="856" alt="image" src="https://github.com/user-attachments/assets/c34b4efc-e454-4886-866b-4236a89f2e26" />
 https://www.printables.com/model/964784-fv01-the-most-advanced-3d-printed-rc-formula-1-car
 https://cults3d.com/en/3d-model/game/fv01-the-most-advanced-3d-printed-rc-racing-car-velocityprojects3d?srsltid=AfmBOoowgP6E1AHQ6fft39ft8XHGLBir9RTrEelPpk7XJf8DgG12h90Z
+https://cults3d.com/en/3d-model/game/fv24-the-most-realistic-ground-effect-rc-formula-1-car
